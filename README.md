@@ -106,7 +106,8 @@ To check the test coverage.
 - in useRestaurants hook, I am getting photos of all the restaurants at once. This might take some time for the recommendation page to load. Better solution would be to get the images of restaurants when needed.
 - The marker in the location map is not correct.
 - getRandomRestaurant is not mocked in Recommendation test.
-- There is a Typeerror in test related to mapbox
+- There is a Typeerror in test related to mapbox.
+- There is no commit history in my project.
 
 ## Notes
 
