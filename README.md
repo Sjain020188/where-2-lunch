@@ -120,6 +120,6 @@ https://www.linkedin.com/in/shruti-jain-japan/
 Github
 https://github.com/Sjain020188
 
-## Project
+## Other Project
 
 https://github.com/crazy-bananas/boogie-woogie
