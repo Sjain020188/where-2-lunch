@@ -1,0 +1,416 @@
+{
+  "results": [
+    {
+      "fsq_id": "4b56877ef964a5201b1428e3",
+      "categories": [
+        {
+          "id": 13099,
+          "name": "Chinese Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 377,
+      "geocodes": {
+        "main": {
+          "latitude": 35.66344012650406,
+          "longitude": 139.7339205443859
+        }
+      },
+      "location": {
+        "address": "六本木3丁目8-15",
+        "address_extended": "瀬里奈ビレッジ 2F",
+        "country": "JP",
+        "cross_street": "瀬里奈ビレッジ 2F",
+        "formatted_address": "六本木3丁目8-15 (瀬里奈ビレッジ 2F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "neighborhood": ["Akasaka / Roppongi"],
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "Kohien (香妃園)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4d148d7c6d103704504222bd",
+      "categories": [
+        {
+          "id": 13099,
+          "name": "Chinese Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/asian_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 482,
+      "geocodes": {
+        "main": {
+          "latitude": 35.663923,
+          "longitude": 139.732561
+        }
+      },
+      "location": {
+        "address": "六本木4丁目9-1",
+        "address_extended": "佐竹ビル4F",
+        "country": "JP",
+        "cross_street": "佐竹ビル 4F",
+        "formatted_address": "六本木4丁目9-1 (佐竹ビル 4F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "Kuronekoyoru (黒猫夜)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "50a0edf8e4b07eb4da3b20c5",
+      "categories": [
+        {
+          "id": 13026,
+          "name": "BBQ Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/bbqalt_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13263,
+          "name": "Japanese Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 285,
+      "geocodes": {
+        "main": {
+          "latitude": 35.666626800263025,
+          "longitude": 139.73988875314637
+        }
+      },
+      "location": {
+        "address": "赤坂1丁目12-32",
+        "address_extended": "赤坂アークヒルズアーク森ビル2F",
+        "country": "JP",
+        "cross_street": "アークヒルズ アーク森ビル 2F",
+        "formatted_address": "赤坂1丁目12-32 (アークヒルズ アーク森ビル 2F), 港区, Tokyo, 107-6002",
+        "locality": "Minato",
+        "neighborhood": ["Odaiba / Shiodome / Shinbashi"],
+        "postcode": "107-6002",
+        "region": "Tokyo"
+      },
+      "name": "Yakiniku Ten Gamushara (焼肉 天 がむしゃら)",
+      "related_places": {
+        "parent": {
+          "fsq_id": "4b4fdf0ef964a520351827e3",
+          "name": "プレーツ アーク森ビル店"
+        }
+      },
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4b5d19f8f964a520b05229e3",
+      "categories": [
+        {
+          "id": 13263,
+          "name": "Japanese Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/japanese_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [
+        {
+          "id": "c13552d0-d891-0132-61d9-7a163eb2a6fc",
+          "name": "一風堂"
+        }
+      ],
+      "distance": 511,
+      "geocodes": {
+        "main": {
+          "latitude": 35.663817,
+          "longitude": 139.732251
+        }
+      },
+      "location": {
+        "address": "六本木4丁目9-11",
+        "address_extended": "第2小田切ビル 1F",
+        "country": "JP",
+        "cross_street": "第2小田切ビル 1F",
+        "formatted_address": "六本木4丁目9-11 (第2小田切ビル 1F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "neighborhood": ["Akasaka / Roppongi"],
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "Ippudo (一風堂)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4b5e7e8af964a520ce9029e3",
+      "categories": [
+        {
+          "id": 13031,
+          "name": "Burger Joint",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/burger_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13145,
+          "name": "Fast Food Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/fastfood_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 521,
+      "geocodes": {
+        "main": {
+          "latitude": 35.669311,
+          "longitude": 139.738727
+        }
+      },
+      "location": {
+        "address": "赤坂2丁目18-19",
+        "address_extended": "赤坂シャレー2 1F",
+        "country": "JP",
+        "formatted_address": "赤坂2丁目18-19, 港区, Tokyo, 107-0052",
+        "locality": "Tokyo",
+        "postcode": "107-0052",
+        "region": "Tokyo"
+      },
+      "name": "Authentic",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4c629091de1b2d7f1378e270",
+      "categories": [
+        {
+          "id": 10000,
+          "name": "Arts and Entertainment",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/arts_entertainment/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13003,
+          "name": "Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 457,
+      "geocodes": {
+        "main": {
+          "latitude": 35.66338954228773,
+          "longitude": 139.73300463544945
+        }
+      },
+      "location": {
+        "address": "六本木3丁目11-10",
+        "address_extended": "ココ六本木ビル6F",
+        "country": "JP",
+        "cross_street": "ココ六本木ビル 6F",
+        "formatted_address": "六本木3丁目11-10 (ココ六本木ビル 6F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "天体観測Diner アフィリア・スターズ",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4cdbb8894006a143e229dab2",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 490,
+      "geocodes": {
+        "main": {
+          "latitude": 35.662716,
+          "longitude": 139.732952
+        }
+      },
+      "location": {
+        "address": "六本木5丁目1-5",
+        "address_extended": "B1F",
+        "country": "JP",
+        "cross_street": "加藤ビル B1F",
+        "formatted_address": "六本木5丁目1-5 (加藤ビル B1F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "Ant 'n Bee (アントンビー)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4c5b0f396407d13a8333b628",
+      "categories": [
+        {
+          "id": 13016,
+          "name": "Lounge",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/default_",
+            "suffix": ".png"
+          }
+        },
+        {
+          "id": 13065,
+          "name": "Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/default_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 509,
+      "geocodes": {
+        "main": {
+          "latitude": 35.66832256682337,
+          "longitude": 139.7412401576775
+        }
+      },
+      "location": {
+        "address": "赤坂9丁目7-1",
+        "address_extended": "ザ リッツ カールトン東京",
+        "country": "JP",
+        "cross_street": "ANAインターコンチネンタルホテル東京",
+        "formatted_address": "赤坂9丁目7-1 (ANAインターコンチネンタルホテル東京), 港区, Tokyo, 107-0052",
+        "locality": "Minato",
+        "postcode": "107-0052",
+        "region": "Tokyo"
+      },
+      "name": "Club Intercontinental Lounge (クラブ インターコンチネンタル ラウンジ)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "530f3358498e0b25bda70ce5",
+      "categories": [
+        {
+          "id": 13006,
+          "name": "Beer Bar",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/nightlife/pub_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 483,
+      "geocodes": {
+        "main": {
+          "latitude": 35.66222074955232,
+          "longitude": 139.733403463569
+        }
+      },
+      "location": {
+        "address": "六本木5丁目3-2",
+        "address_extended": "斉藤ビル 1F",
+        "country": "JP",
+        "cross_street": "斎藤ビル 1F",
+        "formatted_address": "六本木5丁目3-2 (斎藤ビル 1F), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "BrewDog Roppongi",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    },
+    {
+      "fsq_id": "4b5923b2f964a520917e28e3",
+      "categories": [
+        {
+          "id": 13281,
+          "name": "Udon Restaurant",
+          "icon": {
+            "prefix": "https://ss3.4sqi.net/img/categories_v2/food/ramen_",
+            "suffix": ".png"
+          }
+        }
+      ],
+      "chains": [],
+      "distance": 402,
+      "geocodes": {
+        "main": {
+          "latitude": 35.662436,
+          "longitude": 139.734315
+        }
+      },
+      "location": {
+        "address": "六本木3丁目14-12",
+        "address_extended": "六本木3丁目ビル1F",
+        "country": "JP",
+        "cross_street": "六本木3丁目ビル",
+        "formatted_address": "六本木3丁目14-12 (六本木3丁目ビル), 港区, Tokyo, 106-0032",
+        "locality": "Tokyo",
+        "neighborhood": ["Akasaka / Roppongi"],
+        "postcode": "106-0032",
+        "region": "Tokyo"
+      },
+      "name": "TsuruTonTan (つるとんたん)",
+      "related_places": {},
+      "timezone": "Asia/Tokyo"
+    }
+  ],
+  "context": {
+    "geo_bounds": {
+      "circle": {
+        "center": {
+          "latitude": 35.6646782,
+          "longitude": 139.7378198
+        },
+        "radius": 1000
+      }
+    }
+  }
+}
