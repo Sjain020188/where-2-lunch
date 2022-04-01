@@ -2,12 +2,11 @@
 
 ## Introduction
 
-This project is created as a part of Coding Challenge for Cogent labs.
-The webapp helps the staff of Cogent Labs with recommendation for lunch within 1km of office. It displays a random restaurant as recommendation and also allow you to search from all restaurants based on name and category.
+The webapp helps the user with recommendation for lunch within 1km of given location. It displays a random restaurant as recommendation and also allow you to search from all restaurants based on name and category.
 
 ## Technical Decisions
 
-- API used to get the data of restaurants within 1km from Cogent labs office is FourSquare.
+- API used to get the data of restaurants within 1km from is FourSquare.
 - API used to display the map of restaurant is Mapbox.
 - Redux is used for state management within the webapp. Redux state is persisted in local storage. The app pulls the data from API only if redux state in local storage doesn't contain restaurants info. This is done just to reduce number of API calls (as the API is not free). In real application we might want to pull data from API atleast once per day to make sure we have the latest restaurant details.
 - Material UI is used for components for quick development.
@@ -109,18 +108,3 @@ To check the test coverage.
 - There is a Typeerror in test related to mapbox.
 - There is no commit history in my project.
 
-## Notes
-
-- Some comments are added in code explaining my thought process. You can search them using NOTE:
-
-## Profile
-
-LinkedIn
-https://www.linkedin.com/in/shruti-jain-japan/
-
-Github
-https://github.com/Sjain020188
-
-## Other Project
-
-https://github.com/crazy-bananas/boogie-woogie
